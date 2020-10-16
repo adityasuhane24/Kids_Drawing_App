@@ -197,14 +197,6 @@
             android:scaleType="fitXY"
             />
 
-        <ImageButton
-            android:id="@+id/ib_share"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:src="@drawable/share_img"
-            android:contentDescription="share image"
-            android:scaleType="fitXY"
-            />
 
 
     </LinearLayout>
