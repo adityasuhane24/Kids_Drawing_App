@@ -80,10 +80,6 @@ class MainActivity : AppCompatActivity() {
         }
 
 
-
-        ib_share.setOnClickListener {
-
-        }
         
     }
 
